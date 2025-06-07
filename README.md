@@ -1,3 +1,8 @@
+Nome e RM
+Bruno Scuciato RM:562159  
+João Basta RM:565383 
+Kelwin Silva RM: 566348
+
 # 🌧️ Sistema de Monitoramento de Enchentes com Arduino
 
 Este projeto é um **Sistema de Alerta de Enchentes** baseado em Arduino, utilizando sensores para detectar o nível da água, intensidade da chuva, umidade e temperatura. Ele fornece **alertas visuais e sonoros** para diferentes níveis de risco (Seguro, Atenção e Perigo).
